@@ -6,6 +6,12 @@ xskillscore-tutorial
 
 Welcome to the `xskillscore <https://github.com/raybellwaves/xskillscore>`_ tutorial.
 
+This was designed for a talk at the `Data Science Study Group: South Florida
+<https://www.meetup.com/Data-Science-Study-Group-South-Florida/>`_ on April 1 :sup:`st` 2020.
+
+Running
+-------
+
 You can run this tutorial interactively by clicking on the
 `launch | binder <https://mybinder.org/v2/gh/raybellwaves/xskillscore-tutorial/master?urlpath=lab>`_
 button at the top.
@@ -23,6 +29,9 @@ You can also clone and run locally:
    $ jupyter labextension install @bokeh/jupyter_bokeh
    $ jupyter lab workspaces import binder/jupyterlab-workspace.json
 
-This tutoial was adapted from the `dask-tutorial <https://github.com/dask/dask-tutorial>`_
+References
+----------
+
+This tutoial was adapted from the `dask-tutorial <https://github.com/dask/dask-tutorial>`_.
 
 
