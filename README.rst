@@ -16,7 +16,7 @@ You can run this tutorial interactively by clicking on the
 `launch | binder <https://mybinder.org/v2/gh/raybellwaves/xskillscore-tutorial/master?urlpath=lab>`_
 button at the top.
 
-You can also clone and run locally:
+You can also clone this repo and run locally:
 
 .. code-block:: bash
 
