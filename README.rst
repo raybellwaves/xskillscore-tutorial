@@ -42,6 +42,7 @@ You can also clone this repo and run locally:
    $ jupyter labextension install @jupyter-widgets/jupyterlab-manager
    $ jupyter labextension install @bokeh/jupyter_bokeh
    $ jupyter lab workspaces import binder/jupyterlab-workspace.json
+   $ jupyter lab
 
 References
 ----------
