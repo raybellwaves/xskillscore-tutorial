@@ -9,6 +9,8 @@ Welcome to the `xskillscore <https://github.com/raybellwaves/xskillscore>`_ tuto
 
 This was created for a talk at the `Data Science Study Group: South Florida
 <https://www.meetup.com/Data-Science-Study-Group-South-Florida/>`_ on April 1 :sup:`st` 2020.
+The associated slides can be found
+`here <https://github.com/raybellwaves/xskillscore-tutorial/blob/master/xskillscore-tutorial.pdf>`_.
 
 See `00_Introduction.ipynb <https://github.com/raybellwaves/xskillscore-tutorial/blob/master/00_Introduction.ipynb>`_
 for an overview of this tutorial.
