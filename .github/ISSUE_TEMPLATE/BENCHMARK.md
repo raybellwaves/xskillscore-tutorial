@@ -1,0 +1,16 @@
+---
+name: Benchmark
+about: 'Share your results of running 03'
+title: 'Benchmark: N forecasts, T time'
+labels: 'benchmark'
+assignees: ''
+
+---
+
+Cluster:
+Workers: X
+Cores: X
+Memory: X
+
+Hardware:
+e.g. Laptop/HPC etc. CPU type etc.
