@@ -13,4 +13,5 @@ Cores: X
 Memory: X
 
 Hardware:
-e.g. Laptop/HPC etc. CPU type etc.
+e.g. Laptop/HPC etc. CPU type (e.g. `$ lscpu`) etc.
+
