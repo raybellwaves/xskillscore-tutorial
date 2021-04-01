@@ -49,9 +49,9 @@ You can also clone this repo and run locally:
 References
 ----------
 
-This tutoial was adapted from the `dask-tutorial <https://github.com/dask/dask-tutorial>`_.
+This tutorial was adapted from the `dask-tutorial <https://github.com/dask/dask-tutorial>`_.
 
-The interative session is hosted by `Binder <https://mybinder.readthedocs.io/en/latest/>`_
+The interactive session is hosted by `Binder <https://mybinder.readthedocs.io/en/latest/>`_
 and runs on `Google Kubernetes Engine (GKE) <https://cloud.google.com/kubernetes-engine>`_.
 
 
